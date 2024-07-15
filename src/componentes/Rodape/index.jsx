@@ -32,7 +32,7 @@ function Rodape() {
         <RodapeEstilizado>
             <IconeContainer>
                 <li>
-                    <a href="https://linkedin.com/in/thoninogueira.">
+                    <a href="https://linkedin.com/in/thoni-nogueira.">
                         <img src="/imagens/sociais/linkedin.png" alt="" />
                     </a>
                 </li>
